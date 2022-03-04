@@ -4,11 +4,12 @@ Separation of the bsadmin template to components with vue
 
 Bsadmin verilen düz html css şablonun vue'de bileşenlere ayrılması  ,
 
+![proje_ss](https://user-images.githubusercontent.com/89356076/156852438-f432e19f-8ff4-46e1-a4e8-de2d92bc2c4f.JPG)
 
 
 ## Project setup
 ```
-npm install
+npm install -g @vue/cli
 ```
 
 ### Compiles and hot-reloads for development
